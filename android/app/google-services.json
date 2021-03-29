@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "268890706273",
+    "firebase_url": "https://cafe-pnj.firebaseio.com",
+    "project_id": "cafe-pnj",
+    "storage_bucket": "cafe-pnj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268890706273:android:56d4528f401eaf05faf520",
+        "android_client_info": {
+          "package_name": "com.pnj.cafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268890706273-lf08r6lbbmk6ts43kroo4s481t0qjc98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD51efszAS-GRoZ9Y4PFbVfnQTtKkNCkKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268890706273-lf08r6lbbmk6ts43kroo4s481t0qjc98.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "268890706273-au6puqk0nftg9sk3juhq3md7rkph7i2g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pnj.cafe"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268890706273:android:b7d352670e73be4afaf520",
+        "android_client_info": {
+          "package_name": "fis.tdc.cafepnj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268890706273-lf08r6lbbmk6ts43kroo4s481t0qjc98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD51efszAS-GRoZ9Y4PFbVfnQTtKkNCkKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268890706273-lf08r6lbbmk6ts43kroo4s481t0qjc98.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "268890706273-au6puqk0nftg9sk3juhq3md7rkph7i2g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pnj.cafe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

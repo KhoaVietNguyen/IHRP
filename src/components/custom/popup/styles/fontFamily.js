@@ -1,0 +1,15 @@
+export const fontFamily = {
+    HKNova: 'HKNova-Medium',
+    sspBlack: 'SourceSansPro-Black',
+    sspBlackItalic: 'SourceSansPro-BlackItalic',
+    sspBold: 'SourceSansPro-Bold',
+    sspBoldItalic: 'SourceSansPro-BoldItalic',
+    sspExtraLight: 'SourceSansPro-ExtraLight',
+    sspExtraLightItalic: 'SourceSansPro-ExtraLightItalic',
+    sspItalic: 'SourceSansPro-Italic',
+    sspLight: 'SourceSansPro-Light',
+    sspLightItalic: 'SourceSansPro-LightItalic',
+    sspRegular: 'SourceSansPro-Regular',
+    sspSemiBold: 'SourceSansPro-SemiBold',
+    sspSemiBoldItalic: 'SourceSansPro-SemiBoldItalic',
+}
